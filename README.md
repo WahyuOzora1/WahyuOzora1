@@ -5,7 +5,13 @@
   
   <br> I'm Wahyu Restu Pamuji, Junior mobile and web developer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<!--     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
+  <p align="left">
+<a href="https://github.com/Siswadi24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WahyuOzora1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WahyuOzora1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  </abc>
 
 </h2> 
