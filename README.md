@@ -40,7 +40,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-wahyurestupamuji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyu-restu-pamuji-1671771b6/)](https://www.linkedin.com/in/wahyurestupamuji) [![Facebook Badge](https://img.shields.io/badge/-@wahyurestupamuji-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/wahyurestupamuji)](https://www.facebook.com/wahyurestupamuji) [![Instagram Badge](https://img.shields.io/badge/-@wahyurestupamuji-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/wahyurestu__/)](https://www.instagram.com/wahyurestu__/)
+[![Linkedin Badge](https://img.shields.io/badge/-wahyurestupamuji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wahyu-restu-pamuji-1671771b6/](https://www.linkedin.com/in/wahyu-restu-pamuji-1671771b6/))](https://www.linkedin.com/in/wahyurestupamuji) [![Facebook Badge](https://img.shields.io/badge/-@wahyurestupamuji-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/wahyurestupamuji)](https://www.facebook.com/wahyurestupamuji) [![Instagram Badge](https://img.shields.io/badge/-@wahyurestupamuji-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/wahyurestu__/)](https://www.instagram.com/wahyurestu__/)
 
 
 
